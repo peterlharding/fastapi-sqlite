@@ -1,3 +1,15 @@
+
+# Ignore
+*.x
+src/db/new.sqlite
+
+# MacOS Stuff
+.DS_Store
+
+# VSCode
+.vscode/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +139,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+

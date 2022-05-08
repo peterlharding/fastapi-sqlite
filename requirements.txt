@@ -1,0 +1,15 @@
+PyJwt
+geopy
+passlib
+sqlalchemy
+okta_jwt_verifier
+requests
+markupsafe==2.0.1
+jinja2==2.11.3
+fastapi
+fastapi_sessions
+pydantic
+pydantic[email]
+python-multipart
+starlette
+uvicorn
